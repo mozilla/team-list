@@ -1,0 +1,14 @@
+#MoFo
+mofo-appmaker, Appmaker
+mofo-openbadges, Badges
+mofo-engagement, Engagement
+mofo-hive, Hive
+mofo-opennews, Open News
+mofo-sciencelab, Science Lab
+mofo-webmaker, Webmaker
+#MoCo
+moco-engagement, Engagement
+moco-finance, Finance
+moco-legal, Legal
+moco-privacy, Privacy
+moco-qa, QA
