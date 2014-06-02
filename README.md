@@ -2,18 +2,18 @@
 
 A simple txt file with a list of team names that can be used in other tools. 
 
-## Who is using this?
+### Who is using this?
 
 This list is used in the following apps:
 
 * [Adhoctribution](https://github.com/mozilla/adhoctribution/)
 * [Mozbadging](https://github.com/mozilla/mozbadging/)
 
-# Who is this for?
+### Who is this for?
 
 The primary use is to maintain one list of the teams who want to issue badges and count contributors in an easy to edit location.
 
-# How do I add a team?
+### How do I add a team?
 
 1. You will need a github account
 2. Sign-in
@@ -28,11 +28,11 @@ The primary use is to maintain one list of the teams who want to issue badges an
 
 TODO: Check if this automatically creates a Fork for people who are not authorized to edit the repo directly.
 
-## Important notes
+#### Important notes
 
 * Please ask before *changing* an existing name (as this may impact on reporting elsewhere)
 
-# How to consume this
+### How to consume this
 
 The published list is at:
 
