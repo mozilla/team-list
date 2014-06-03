@@ -22,7 +22,7 @@ The primary use is to maintain one list of the teams who want to issue badges an
         * A short code prefixed with moco of mofo and the team name
             * E.g. moco-teamname
         * Then a comma, and the full team name as it will be displayed to the user
-4. [Click here to edit *teams.txt* using github](https://github.com/mozilla/team-list/edit/gh-pages/teams.txt)
+4. [Click here to edit **teams.txt** using github](https://github.com/mozilla/team-list/edit/gh-pages/teams.txt)
 5. "Commit Changes"
 6. "Submit a Pull Request"
 
