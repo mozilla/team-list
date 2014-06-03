@@ -16,13 +16,13 @@ The primary use is to maintain one list of the teams who want to issue badges an
 ### How do I add a team?
 
 1. You will need a github account
-2. Sign-in
+2. Sign-in go github
 3. [Look at this page to see how the names are formatted](http://mozilla.github.io/team-list/teams.txt)
     * The convention is:
         * A short code prefixed with moco of mofo and the team name
             * E.g. moco-teamname
         * Then a comma, and the full team name as it will be displayed to the user
-4. [Click here to edit the file](https://github.com/mozilla/team-list/edit/gh-pages/teams.txt)
+4. [Click here to edit the teams.txt file using github](https://github.com/mozilla/team-list/edit/gh-pages/teams.txt)
 5. "Commit Changes"
 6. "Submit a Pull Request"
 
@@ -31,6 +31,7 @@ TODO: Check if this automatically creates a Fork for people who are not authoriz
 #### Important notes
 
 * Please ask before *changing* an existing name (as this may impact on reporting elsewhere)
+* Team names are in alphabetical order
 
 ### How to consume this
 
@@ -43,5 +44,5 @@ The published list is at:
 
 `npm install mocofoteamlist`
 
-* see https://www.npmjs.org/package/mocofoteamlist
+* https://github.com/mozilla/team-list/tree/gh-pages/node
 
