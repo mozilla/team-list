@@ -1,0 +1,23 @@
+{
+  "name": "mocofoteamlist",
+  "version": "0.0.1",
+  "description": "A module to load in a team list from a centrally managed location",
+  "main": "mocofoteamlist.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla/team-list"
+  },
+  "author": "Adam Lofting",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mozilla/team-list/issues"
+  },
+  "homepage": "https://github.com/mozilla/team-list",
+  "dependencies": {
+    "request": "~2.36.0",
+    "node-cache": "~1.0.0"
+  }
+}
