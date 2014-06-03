@@ -2,6 +2,7 @@
 
 `npm install mocofoteamlist`
 
+### getHTMLSelectOptionsForTeams()
 
 ```JavaScript
 var mocofoteamlist = require('mocofoteamlist');
@@ -20,7 +21,7 @@ mocofoteamlist.getHTMLSelectOptionsForTeams(function gotHTML (err, list) {
 
 ```
 
-You should rended this list within a select tag
+You should render this list within a select tag
 ```html
 <select>
   <option value="default">--Select</option>
