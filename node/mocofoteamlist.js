@@ -50,7 +50,7 @@ function parseSrcIntoOptions (src) {
       }
 
       var title = row[0].replace('#', '');
-      selectBuilder.push('<optgroup lable="' + title + '">');
+      selectBuilder.push('<optgroup label="' + title + '">');
 
       // make sure this optgroup gets closed
       optroupTagOpen = true;

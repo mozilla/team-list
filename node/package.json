@@ -1,6 +1,6 @@
 {
   "name": "mocofoteamlist",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A module to load in a team list from a centrally managed location",
   "main": "mocofoteamlist.js",
   "scripts": {
