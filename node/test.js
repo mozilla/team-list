@@ -1,6 +1,6 @@
 var mocofoteamlist = require("./mocofoteamlist");
 
-mocofoteamlist.getTeamSelectOptions(function gotTeamSelectOptions (err, res) {
+mocofoteamlist.getHTMLSelectOptionsForTeams(function gotTeamSelectOptions (err, res) {
   if (err) {
     console.log(err);
   }
@@ -10,7 +10,7 @@ mocofoteamlist.getTeamSelectOptions(function gotTeamSelectOptions (err, res) {
 // test caching effect on timing
 
 setTimeout(function() {
-  mocofoteamlist.getTeamSelectOptions(function gotTeamSelectOptions (err, res) {
+  mocofoteamlist.getHTMLSelectOptionsForTeams(function gotTeamSelectOptions (err, res) {
     if (err) {
       console.log(err);
     }
@@ -19,7 +19,7 @@ setTimeout(function() {
 }, 1000);
 
 setTimeout(function() {
-  mocofoteamlist.getTeamSelectOptions(function gotTeamSelectOptions (err, res) {
+  mocofoteamlist.getHTMLSelectOptionsForTeams(function gotTeamSelectOptions (err, res) {
     if (err) {
       console.log(err);
     }
