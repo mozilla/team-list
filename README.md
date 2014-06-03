@@ -41,3 +41,7 @@ The published list is at:
 
 #### In a node app
 
+`npm install mocofoteamlist`
+
+* see https://www.npmjs.org/package/mocofoteamlist
+
