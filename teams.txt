@@ -1,11 +1,11 @@
 #MoCo
 moco-engagement, Engagement
 moco-finance, Finance
+moco-firefox, Firefox Desktop
+moco-firefoxos, Firefox OS
 moco-legal, Legal
 moco-privacy, Privacy
 moco-qa, QA
-moco-firefoxos, Firefox OS
-moco-firefox, Firefox Desktop
 #MoFo
 mofo-appmaker, Appmaker
 mofo-openbadges, Badges
