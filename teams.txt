@@ -13,4 +13,5 @@ mofo-engagement, Engagement
 mofo-hive, Hive
 mofo-opennews, Open News
 mofo-sciencelab, Science Lab
+mofo-studiomofo, Studio Mofo
 mofo-webmaker, Webmaker
