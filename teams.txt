@@ -7,6 +7,7 @@ moco-legal, Legal
 moco-privacy, Privacy
 moco-qa, QA
 #MoFo
+mofo-advocacy, Advocacy
 mofo-appmaker, Appmaker
 mofo-openbadges, Badges
 mofo-engagement, Engagement
