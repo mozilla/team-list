@@ -12,6 +12,7 @@ mofo-appmaker, Appmaker
 mofo-openbadges, Badges
 mofo-engagement, Engagement
 mofo-hive, Hive
+mofo-mozfest, MozFest
 mofo-opennews, Open News
 mofo-sciencelab, Science Lab
 mofo-studiomofo, Studio Mofo
