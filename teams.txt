@@ -10,6 +10,7 @@ moco-qa, QA
 mofo-advocacy, Advocacy
 mofo-appmaker, Appmaker
 mofo-openbadges, Badges
+mofo-devops, DevOps
 mofo-engagement, Engagement
 mofo-hive, Hive
 mofo-mozfest, MozFest
